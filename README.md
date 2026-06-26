@@ -6,7 +6,7 @@ Created by **Public_Urinal / Animus**
 Discord: **animusx1337**  
 GitHub: **https://github.com/ARandomAddonDev/GTAV-Cherax**
 
-Estimated Development Time: **82+ hours** as of **06/26/2026**
+Estimated Development Time: **350+ hours** as of **06/26/2026**
 
 ---
 
